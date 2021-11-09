@@ -20,3 +20,4 @@ print("Hello " + "James")
 # the input function allows the user to enter data in the console, when the code is run the cursor will be waiting for the users response
 
 print("Hello " + input("What is your name?"))
+# Then print() will print the word "Hello" and the user input
